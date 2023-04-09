@@ -1,0 +1,4 @@
+.no-grow{
+    flex-grow: initial;
+    width: 100%;
+}

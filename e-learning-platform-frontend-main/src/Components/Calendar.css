@@ -1,0 +1,22 @@
+table{
+    font-family: "Montserrat", sans-serif;
+}
+
+thead{
+    font-weight: 400;
+    font-size: 12px;
+    color: #252525;
+    opacity: 0.5;
+    font-family: "Montserrat", sans-serif;
+}
+td{
+    font-size: 10px;
+    text-align: center;
+}
+.today{
+    background-color: blue!important;
+    border-radius: 100px;
+    /* width: ; */
+    padding: 0!important;
+    color: #fff;
+}

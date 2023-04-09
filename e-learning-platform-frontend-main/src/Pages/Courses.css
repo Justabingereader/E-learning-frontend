@@ -1,0 +1,12 @@
+.page-item{
+}
+
+.page-item span, .page-item a{
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+.page-arrow a{
+    padding: 10px !important;
+}
